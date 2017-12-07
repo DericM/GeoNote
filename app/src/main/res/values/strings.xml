@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoNote</string>
+    <string name="title_activity_select_location">Map</string>
+</resources>
